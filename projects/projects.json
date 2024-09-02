@@ -1,12 +1,12 @@
 [
   {
-    "name": "Comming soon",
-    "desc": "Comming soon",
-    "image": "Comming soon",
-    "category": "mern",
+    "name": "Intrusion Detection System",
+    "desc": "I developed a robust Intrusion Detection System (IDS) focused on enhancing cybersecurity measures. The process began with comprehensive data collection, followed by meticulous data preprocessing, which included handling null values and outliers to ensure data integrity. I employed advanced feature engineering techniques such as ANOVA F-statistic, forward selection, and backward selection to optimize the model's performance. This systematic approach enabled the creation of a highly accurate and reliable IDS, demonstrating my proficiency in data science and machine learning applications in cybersecurity.",
+    "image": "Intrusion Detection System",
+    "category": "Machine Learning",
     "links": {
-      "view": "#",
-      "code": "#"
+      "view": "https://network-traffic-classification-app-2b89veytvg2983ujd9aswp.streamlit.app",
+      "code": "https://github.com/imadkhattak/Intrusion-Detection-Streamlit-App.git"
     }
   },
   {
