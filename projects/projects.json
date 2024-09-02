@@ -1,7 +1,7 @@
 [
   {
     "name": "Intrusion Detection System",
-    "desc": "I developed a robust Intrusion Detection System (IDS) focused on enhancing cybersecurity measures. The process began with comprehensive data collection, followed by meticulous data preprocessing, which included handling null values and outliers to ensure data integrity. I employed advanced feature engineering techniques such as ANOVA F-statistic, forward selection, and backward selection to optimize the model's performance. This systematic approach enabled the creation of a highly accurate and reliable IDS, demonstrating my proficiency in data science and machine learning applications in cybersecurity.",
+    "desc": "Developed a high-performance IDS through data collection, preprocessing (handling nulls and outliers), and advanced feature engineering (ANOVA F-statistic, forward and backward selection).",
     "image": "Intrusion Detection System",
     "category": "Machine Learning",
     "links": {
@@ -11,7 +11,7 @@
   },
   {
     "name": "Car Price Prediction App",
-    "desc": "n this project, I successfully scraped automotive data from the PakWheels website using a combination of Requests, BeautifulSoup, and Selenium. After collecting the data, I applied rigorous preprocessing techniques to handle null values and outliers, ensuring the dataset's quality. I then performed feature engineering with methods such as ANOVA F-statistic, forward selection, and backward selection to enhance the data. Following data preparation, I built a predictive model to derive actionable insights and deployed it using Flask. This deployment allowed for interactive, real-time predictions, showcasing my ability to integrate web scraping, data analysis, model building, and deployment into a cohesive workflow. This project highlights my proficiency in transforming complex datasets into valuable business solutions.",
+    "desc": "Built and deployed a predictive model with Flask for real-time insights, demonstrating my skills in data scraping, analysis, and deployment.",
     "image": "Car price prediction",
     "category": "End-to-End Data Science Project",
     "links": {
