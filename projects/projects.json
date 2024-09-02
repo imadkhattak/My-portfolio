@@ -10,13 +10,13 @@
     }
   },
   {
-    "name": "Comming soon",
-    "desc": "Comming soon",
-    "image": "Comming soon",
-    "category": "mern",
+    "name": "Car Price Prediction App",
+    "desc": "n this project, I successfully scraped automotive data from the PakWheels website using a combination of Requests, BeautifulSoup, and Selenium. After collecting the data, I applied rigorous preprocessing techniques to handle null values and outliers, ensuring the dataset's quality. I then performed feature engineering with methods such as ANOVA F-statistic, forward selection, and backward selection to enhance the data. Following data preparation, I built a predictive model to derive actionable insights and deployed it using Flask. This deployment allowed for interactive, real-time predictions, showcasing my ability to integrate web scraping, data analysis, model building, and deployment into a cohesive workflow. This project highlights my proficiency in transforming complex datasets into valuable business solutions.",
+    "image": "Car price prediction",
+    "category": "End-to-End Data Science Project",
     "links": {
-      "view": "#",
-      "code": "#"
+      "view": "http://192.168.18.103:8501",
+      "code": "https://github.com/imadkhattak/Pak-wheel-car-price-prediction.git"
     }
   },
   {
