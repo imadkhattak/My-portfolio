@@ -20,9 +20,9 @@
     }
   },
   {
-    "name": "WhatsApp Chat Analysis Tool 📊",
-    "desc": "I developed a tool that turns your WhatsApp chat data into valuable insights. With it, you can: Discover peak messaging hours 🕒 Track message frequency 📅",
-    "image": "WhatsApp Chat Analysis Tool 📊",
+    "name": "WhatsApp Chat Analysis Tool",
+    "desc": "I developed a tool that turns your WhatsApp chat data into valuable insights. With it, you can: Discover peak messaging hours Track message frequency",
+    "image": "WhatsApp Chat Analysis Tool",
     "category": "Data Analytics ",
     "links": {
       "view": "https://whatsapp-chart-analysis-imad.streamlit.app/",
@@ -30,9 +30,9 @@
     }
   },
   {
-    "name": "Caesar Cipher Encryption Tool 🔐",
+    "name": "Caesar Cipher Encryption Tool",
     "desc": "I created a Tkinter GUI in Python to encrypt and decrypt messages using the Caesar Cipher. This was a great Python and GUI development exercise.",
-    "image": "Caesar Cipher Encryption Tool 🔐",
+    "image": "Caesar Cipher Encryption Tool",
     "category": "Python Programming",
     "links": {
       "view": "https://github.com/imadkhattak/Python-Programming/blob/main/Ceaser%20Cipher%20GUI.py",
