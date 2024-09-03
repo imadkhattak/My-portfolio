@@ -931,6 +931,15 @@ header .navbar ul li a:hover {
 /* experience section ends */
 
 /* contact section starts */
+
+/* Remove automatic capitalization */
+input[type="text"], textarea {
+    text-transform: none;
+}
+
+input[type="text"]::placeholder, textarea::placeholder {
+    text-transform: none;
+}
 .contact {
   background: #e5ecfb;
   min-height: 60vh;
