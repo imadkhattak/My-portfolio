@@ -1,7 +1,7 @@
 [
   {
     "name": "Intrusion Detection System",
-    "desc": "Developed a high-performance IDS through data collection, preprocessing (handling nulls and outliers), and advanced feature engineering (ANOVA F-statistic, forward and backward selection).",
+    "desc": "Developed a high-performance IDS through data collection, preprocessing and advanced feature engineering techniques.",
     "image": "Intrusion Detection System",
     "category": "Machine Learning",
     "links": {
