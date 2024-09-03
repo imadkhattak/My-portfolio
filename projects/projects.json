@@ -15,28 +15,28 @@
     "image": "Car price prediction",
     "category": "End-to-End Data Science Project",
     "links": {
-      "view": "http://192.168.18.103:8501",
+      "view": "https://github.com/imadkhattak/Pak-wheel-car-price-prediction/blob/main/Car%20Price%20Prediction.mp4",
       "code": "https://github.com/imadkhattak/Pak-wheel-car-price-prediction.git"
     }
   },
   {
-    "name": "Comming soon",
-    "desc": "Comming soon",
-    "image": "Comming soon",
-    "category": "mern",
+    "name": "WhatsApp Chat Analysis Tool 📊",
+    "desc": "I developed a tool that turns your WhatsApp chat data into valuable insights. With it, you can: Discover peak messaging hours 🕒 Track message frequency 📅",
+    "image": "WhatsApp Chat Analysis Tool 📊",
+    "category": "Data Analytics ",
     "links": {
-      "view": "#",
-      "code": "#"
+      "view": "https://whatsapp-chart-analysis-imad.streamlit.app/",
+      "code": "https://github.com/imadkhattak/whatsapp-chart-analysis.git"
     }
   },
   {
-    "name": "Comming soon",
-    "desc": "Comming soon",
-    "image": "Comming soon",
-    "category": "mern",
+    "name": "Caesar Cipher Encryption Tool 🔐",
+    "desc": "I created a Tkinter GUI in Python to encrypt and decrypt messages using the Caesar Cipher. This was a great Python and GUI development exercise.",
+    "image": "Caesar Cipher Encryption Tool 🔐",
+    "category": "Python Programming",
     "links": {
-      "view": "#",
-      "code": "#"
+      "view": "https://github.com/imadkhattak/Python-Programming/blob/main/Ceaser%20Cipher%20GUI.py",
+      "code": "https://github.com/imadkhattak/Python-Programming/blob/main/Ceaser%20Cipher%20GUI.py"
     }
   },
   {
