@@ -1,7 +1,7 @@
 [
   {
     "name": "Intrusion Detection System",
-    "desc": "Developed a high-performance IDS through data collection, preprocessing and advanced feature engineering techniques.",
+    "desc": "Developed a high-performance IDS through data collection, preprocessing, and advanced feature engineering techniques.",
     "image": "Intrusion Detection System",
     "category": "Machine Learning",
     "links": {
@@ -21,9 +21,9 @@
   },
   {
     "name": "WhatsApp Chat Analysis Tool",
-    "desc": "I developed a tool that turns your WhatsApp chat data into valuable insights. you can: Discover peak messaging hours Track message frequency",
+    "desc": "I developed a tool that turns your WhatsApp chat data into valuable insights. You can: Discover peak messaging hours, Track message frequency.",
     "image": "WhatsApp Chat Analysis Tool",
-    "category": "Data Analytics ",
+    "category": "Data Analytics",
     "links": {
       "view": "https://whatsapp-chart-analysis-imad.streamlit.app/",
       "code": "https://github.com/imadkhattak/whatsapp-chart-analysis.git"
@@ -39,254 +39,15 @@
       "code": "https://github.com/imadkhattak/Python-Programming/blob/main/Ceaser%20Cipher%20GUI.py"
     }
   },
- {
-    "name": "Comming soon",
-    "desc": "Comming soon",
-    "image": "Comming soon",
-    "category": "Comming soon",
-    "links": {
-      "view": "#",
-      "code": "#"
-    }
-  },
   {
-    "name": "Comming soon",
-    "desc": "Comming soon",
-    "image": "Comming soon",
-    "category": "Comming soon",
-    "links": {
-      "view": "#",
-      "code": "#"
-    }
-  },
-  {
-    "name": "Comming soon",
-    "desc": "Comming soon",
-    "image": "Comming soon",
-    "category": "Comming soon",
-    "links": {
-      "view": "#",
-      "code": "#"
-    }
-  },
-  {
-    "name": "Comming soon",
-    "desc": "Comming soon",
-    "image": "Comming soon",
-    "category": "Comming soon",
-    "links": {
-      "view": "#",
-      "code": "#"
-    }
-  },
-  {
-    "name": "Comming soon",
-    "desc": "Comming soon",
-    "image": "Comming soon",
-    "category": "Comming soon",
-    "links": {
-      "view": "#",
-      "code": "#"
-    }
-  },
-  {
-    "name": "Comming soon",
-    "desc": "Comming soon",
-    "image": "Comming soon",
-    "category": "Comming soon",
-    "links": {
-      "view": "#",
-      "code": "#"
-    }
-  },
-  {
-    "name": "Comming soon",
-    "desc": "Comming soon",
-    "image": "Comming soon",
-    "category": "Comming soon",
-    "links": {
-      "view": "#",
-      "code": "#"
-    }
-  },
-  {
-    "name": "Comming soon",
-    "desc": "Comming soon",
-    "image": "Comming soon",
-    "category": "Comming soon",
-    "links": {
-      "view": "#",
-      "code": "#"
-    }
-  },
-  {
-    "name": "Comming soon",
-    "desc": "Comming soon",
-    "image": "Comming soon",
-    "category": "Comming soon",
-    "links": {
-      "view": "#",
-      "code": "#"
-    }
-  },
-  {
-    "name": "Comming soon",
-    "desc": "Comming soon",
-    "image": "Comming soon",
-    "category": "Comming soon",
-    "links": {
-      "view": "#",
-      "code": "#"
-    }
-  },
-  {
-    "name": "Comming soon",
-    "desc": "Comming soon",
-    "image": "Comming soon",
-    "category": "Comming soon",
-    "links": {
-      "view": "#",
-      "code": "#"
-    }
-  },
-  {
-    "name": "Comming soon",
-    "desc": "Comming soon",
-    "image": "Comming soon",
-    "category": "Comming soon",
-    "links": {
-      "view": "#",
-      "code": "#"
-    }
-  },
-  {
-    "name": "Comming soon",
-    "desc": "Comming soon",
-    "image": "Comming soon",
-    "category": "Comming soon",
-    "links": {
-      "view": "#",
-      "code": "#"
-    }
-  },
-  {
-    "name": "Comming soon",
-    "desc": "Comming soon",
-    "image": "Comming soon",
-    "category": "Comming soon",
-    "links": {
-      "view": "#",
-      "code": "#"
-    }
-  },
-  {
-    "name": "Comming soon",
-    "desc": "Comming soon",
-    "image": "Comming soon",
-    "category": "Comming soon",
-    "links": {
-      "view": "#",
-      "code": "#"
-    }
-  },
-  {
-    "name": "Comming soon",
-    "desc": "Comming soon",
-    "image": "Comming soon",
-    "category": "Comming soon",
-    "links": {
-      "view": "#",
-      "code": "#"
-    }
-  },
-  {
-    "name": "Comming soon",
-    "desc": "Comming soon",
-    "image": "Comming soon",
-    "category": "Comming soon",
-    "links": {
-      "view": "#",
-      "code": "#"
-    }
-  },
-  {
-    "name": "Comming soon",
-    "desc": "Comming soon",
-    "image": "Comming soon",
-    "category": "Comming soon",
-    "links": {
-      "view": "#",
-      "code": "#"
-    }
-  },
-  {
-    "name": "Comming soon",
-    "desc": "Comming soon",
-    "image": "Comming soon",
-    "category": "Comming soon",
-    "links": {
-      "view": "#",
-      "code": "#"
-    }
-  },
-  {
-    "name": "Comming soon",
-    "desc": "Comming soon",
-    "image": "Comming soon",
-    "category": "Comming soon",
-    "links": {
-      "view": "#",
-      "code": "#"
-    }
-  },
-  {
-    "name": "Comming soon",
-    "desc": "Comming soon",
-    "image": "Comming soon",
-    "category": "Comming soon",
-    "links": {
-      "view": "#",
-      "code": "#"
-    }
-  },
-  {
-    "name": "Comming soon",
-    "desc": "Comming soon",
-    "image": "Comming soon",
-    "category": "Comming soon",
-    "links": {
-      "view": "#",
-      "code": "#"
-    }
-  },
-  {
-    "name": "Comming soon",
-    "desc": "Comming soon",
-    "image": "Comming soon",
-    "category": "Comming soon",
-    "links": {
-      "view": "#",
-      "code": "#"
-    }
-  },
-  {
-    "name": "Comming soon",
-    "desc": "Comming soon",
-    "image": "Comming soon",
-    "category": "Comming soon",
-    "links": {
-      "view": "#",
-      "code": "#"
-    }
-  },
-  {
-    "name": "Comming soon",
-    "desc": "Comming soon",
-    "image": "Comming soon",
-    "category": "Comming soon",
+    "name": "Coming Soon",
+    "desc": "Coming soon",
+    "image": "Coming soon",
+    "category": "Coming Soon",
     "links": {
       "view": "#",
       "code": "#"
     }
   }
+
 ]
