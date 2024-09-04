@@ -48,6 +48,35 @@
       "view": "#",
       "code": "#"
     }
+  },
+  {
+    "name": "Coming Soon",
+    "desc": "Coming soon",
+    "image": "Coming soon",
+    "category": "Coming Soon",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Coming Soon",
+    "desc": "Coming soon",
+    "image": "Coming soon",
+    "category": "Coming Soon",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Coming Soon",
+    "desc": "Coming soon",
+    "image": "Coming soon",
+    "category": "Coming Soon",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
   }
-
 ]
