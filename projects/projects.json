@@ -31,7 +31,7 @@
   },
   {
     "name": "Caesar Cipher Encryption Tool",
-    "desc": "I created a Tkinter GUI to encrypt and decrypt messages using the Caesar Cipher. This was a great Python and GUI development exercise.",
+    "desc": "I created a Tkinter GUI to encrypt and decrypt messages using the Caesar Cipher. This was a great GUI development exercise.",
     "image": "Caesar Cipher Encryption Tool",
     "category": "Python Programming",
     "links": {
