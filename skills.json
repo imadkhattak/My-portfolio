@@ -1,43 +1,30 @@
 [
-  
     {
         "name": "Python",
         "icon": "https://img.icons8.com/?size=100&id=l75OEUJkPAk4&format=png&color=000000"
     },
-
     {
         "name": "MySQL",
         "icon": "https://img.icons8.com/?size=100&id=UFXRpPFebwa2&format=png&color=000000"
     },
-
     {
         "name": "Pandas",
         "icon": "https://img.icons8.com/?size=100&id=xSkewUSqtErH&format=png&color=000000"
     },
-    
     {
         "name": "Numpy",
         "icon": "https://img.icons8.com/?size=100&id=aR9CXyMagKIS&format=png&color=000000"
     },
-
     {
         "name": "Selenium",
         "icon": "https://img.icons8.com/?size=100&id=TLI9oiMzpREF&format=png&color=000000"
     },
-
     {
         "name": "MS excel",
-        "icon": "https://img.icons8.com/?size=100&id=117561&format=png&color=000000" 
-
+        "icon": "https://img.icons8.com/?size=100&id=117561&format=png&color=000000"
     },
-
     {
         "name": "Power BI",
-        "icon": "https://img.icons8.com/?size=100&id=3sGOUDo9nJ4k&format=png&color=000000" 
-
+        "icon": "https://img.icons8.com/?size=100&id=3sGOUDo9nJ4k&format=png&color=000000"
     }
- 
-    
 ]
-
-
