@@ -1,7 +1,7 @@
 [
   {
-    "name": "Intrusion Detection System",
-    "desc": "Developed a high-performance IDS through data collection, preprocessing, and advanced feature engineering techniques.",
+    "name": "Calling bot for shopping malls: Information retrievel system",
+    "desc": "An intelligent voice-enabled shopping mall assistant that helps customers find products, store locations, and mall information using natural language processing and SQL database queries.",
     "image": "Intrusion Detection System",
     "category": "Machine Learning",
     "links": {
@@ -20,16 +20,6 @@
     }
   },
   {
-    "name": "WhatsApp Chat Analysis Tool",
-    "desc": "I developed a tool that turns your WhatsApp chat data into valuable insights. You can: Discover peak messaging hours, Track message frequency.",
-    "image": "WhatsApp Chat Analysis Tool",
-    "category": "Data Analytics",
-    "links": {
-      "view": "https://whatsapp-chart-analysis-imad.streamlit.app/",
-      "code": "https://github.com/imadkhattak/whatsapp-chart-analysis.git"
-    }
-  },
-  {
     "name": "Caesar Cipher Encryption Tool",
     "desc": "I created a Tkinter GUI to encrypt and decrypt messages using the Caesar Cipher. This was a great GUI development exercise.",
     "image": "Caesar Cipher Encryption Tool",
@@ -40,33 +30,23 @@
     }
   },
   {
-    "name": "Coming Soon",
-    "desc": "Coming soon",
-    "image": "Coming soon",
-    "category": "Coming Soon",
+    "name": "WhatsApp Chat Analysis Tool",
+    "desc": "I developed a tool that turns your WhatsApp chat data into valuable insights. You can: Discover peak messaging hours, Track message frequency.",
+    "image": "WhatsApp Chat Analysis Tool",
+    "category": "Data Analytics",
     "links": {
-      "view": "#",
-      "code": "#"
+      "view": "https://whatsapp-chart-analysis-imad.streamlit.app/",
+      "code": "https://github.com/imadkhattak/whatsapp-chart-analysis.git"
     }
   },
   {
-    "name": "Coming Soon",
-    "desc": "Coming soon",
-    "image": "Coming soon",
-    "category": "Coming Soon",
+    "name": "Intrusion Detection System",
+    "desc": "Developed a high-performance IDS through data collection, preprocessing, and advanced feature engineering techniques.",
+    "image": "Intrusion Detection System",
+    "category": "Machine Learning",
     "links": {
-      "view": "#",
-      "code": "#"
-    }
-  },
-  {
-    "name": "Coming Soon",
-    "desc": "Coming soon",
-    "image": "Coming soon",
-    "category": "Coming Soon",
-    "links": {
-      "view": "#",
-      "code": "#"
+      "view": "https://network-traffic-classification-app-2b89veytvg2983ujd9aswp.streamlit.app",
+      "code": "https://github.com/imadkhattak/Intrusion-Detection-Streamlit-App.git"
     }
   },
   {
