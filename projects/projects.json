@@ -12,7 +12,7 @@
   {
     "name": "Car Price Prediction App",
     "desc": "Built and deployed a predictive model with Flask for real-time insights, demonstrating my skills in data scraping, analysis, and deployment.",
-    "image": "Car price prediction",
+    "image": "assets/images/projects/Car price prediction.jpeg",
     "category": "End-to-End Data Science Project",
     "links": {
       "view": "https://github.com/imadkhattak/Pak-wheel-car-price-prediction/blob/main/Car%20Price%20Prediction.mp4",
